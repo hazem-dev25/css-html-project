@@ -7,7 +7,7 @@ Welcome to my personal portfolio website! This project showcases my journey as a
 ## 🚀 Live Demo
 
 🌍 [Live Preview Coming Soon...](#)  
-(Or open the `index.html` file directly in your browser)
+https://hazem-dev25.github.io/css-html-project/
 
 ---
 
